@@ -87,4 +87,4 @@ squares are highlighted. Click a highlighted square to move, click another
 one of your own pieces to change your selection, or click an empty
 non-legal square to deselect.
 
-| @MR1229
+| @MR1229 |@MaheshRPawar
